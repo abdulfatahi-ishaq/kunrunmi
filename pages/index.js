@@ -22,7 +22,7 @@ export default function Home() {
       </Head>
       <Fireworks options={options} style={style}>
         <main>
-          <Image src="/images/dapo1.jpeg" alt="Image" width={350} height={400}/>
+          <Image src="/images/dapo1.jpeg" alt="Image" width={250} height={250}/>
           <h2>Happy Birthday</h2>
           <h1>Mr. Oladapo Kunrunmi</h1>
           <h2>Wishing you many happy returns </h2>
