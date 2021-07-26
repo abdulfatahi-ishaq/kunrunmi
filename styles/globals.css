@@ -39,3 +39,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.emoji{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 20px;
+  font-size: 50px;
+}

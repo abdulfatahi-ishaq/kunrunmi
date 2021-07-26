@@ -22,10 +22,15 @@ export default function Home() {
       </Head>
       <Fireworks options={options} style={style}>
         <main>
-          <Image src="/images/dapo1.jpeg" alt="Image" width={250} height={250}/>
+          <Image src="/images/dapo1.jpeg" alt="Image" width={250} height={300}/>
           <h2>Happy Birthday</h2>
           <h1>Mr. Oladapo Kunrunmi</h1>
           <h2>Wishing you many happy returns </h2>
+          <div className="emoji">
+          <p>&#127882;</p>
+          <p>&#127881;</p>
+          <p >&#127882;</p>
+          </div>
         </main>
       </Fireworks>
     </div>
